@@ -1,0 +1,54 @@
+body {
+  background-color: #eaf6f6;
+  }
+
+  hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 5px;
+  width: 4%;
+  border-color: #cdd0cb;
+  margin-left: 10
+
+  }
+
+h1 {
+  color: #66bfbf;
+}
+h3 {
+  color: #66bfbf;
+}
+.hobby-link {
+  color: #66bfbf;
+
+}
+.contacts-link {
+  color: #66bfbf;
+}
+
+.beach-photo {
+  position: relative;
+  left: 90px;
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+
+}
+.tennis-photo {
+  position: relative;
+  left: 100px;
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+.snow-photo {
+  position: relative;
+  left: 100px;
+  width: 25%;
+  float: left;
+}
+
+.container {
+  margin: 100px 0;
+
+}
